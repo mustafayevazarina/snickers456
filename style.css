@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#kotta{
+    display: flex;
+    justify-content: center;
+    background-color: #410C00;
+    height: 165px;
+}
+#rasm{
+    display: flex;
+    height: 70px;
+    margin-top: 50px;
+}
+#qq{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+#qq a{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    color: white;
+    align-items: center;
+    margin-right: 45px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+#ww a{
+    color: white;
+    font-size: 13px;
+    font-weight: 800;
+    margin-right: 25px;
+}
+#zxc{
+    display: flex;
+}
+#kotta2{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(180, 129, 36);
+    height: 650px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#rasm3{
+    display: flex;
+    height: 150px;
+}
+#kotta a{
+text-decoration: none;
+}
+#kotta3{
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    justify-content: space-evenly;
+}
+#kotta3 img{
+    height: 300px;
+}
+#kotta3 a{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  color:  black; 
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 700; 
+  font-size: 23px;
+}
+#snic2{
+    height: 140px;
+}
+#kotta3 a{
+    text-decoration: none;
+}
+#kotta3 a:hover{
+    color: blue;
+    transition: 0.9s;
+}
+#vvv{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+#venom{
+    display: flex;
+    height: 400px;
+    justify-content: center;
+}
+#venom img{
+    display: flex;
+    margin-left: 55px;
+}
+#nmm{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+#venom2{
+    display: flex;
+    background-color: rgb(156, 114, 36);
+    height: 165px;
+    margin-top: 65px;
+}
+#rasm8{
+    display: flex;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#vnm{
+    display: flex;
+    margin-left: 40px;
+}
+#vnm a{
+    display: flex;
+    font-size: 16px;
+    color: rgb(63, 15, 15);
+    align-items: center;
+    margin-right: 45px;
+    margin-top: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
